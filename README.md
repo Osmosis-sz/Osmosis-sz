@@ -1,5 +1,6 @@
 Joined Github 7 years Ago.
-![Alt Text](https://pin.it/6ExKizCsk)
+![GIF](https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif)
+
 
 
 # 💻 Tech Stack:
