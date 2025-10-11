@@ -4,6 +4,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=osmosis-sz&theme=maroongold&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=osmosis-sz&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://profile-counter.glitch.me/<Osmosis-sz>/count.svg)
 
  
